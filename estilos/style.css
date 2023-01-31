@@ -16,11 +16,12 @@ body {
     background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     width: 98.7vw;
+    height: 130vh;
     background-attachment: fixed;
 }
 
 main {
-    height: 110vh;
+    height: 130vh;
     position: relative;
 }
 
@@ -44,7 +45,7 @@ iframe#tela {
 }
 
 section#redes {
-    text-align: top center;
+    text-align: center;
 }
 
 section#redes img {
